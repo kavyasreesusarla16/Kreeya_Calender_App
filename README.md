@@ -25,9 +25,3 @@ This is an MVP web application built for the Kreeya coding challenge. It integra
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/YOUR_USERNAME/kreeya-calendar-app.git
-cd kreeya-calendar-app
