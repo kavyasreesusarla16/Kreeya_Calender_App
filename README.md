@@ -24,4 +24,10 @@ This is an MVP web application built for the Kreeya coding challenge. It integra
 - **Deployment:** Render / Vercel (recommended)
 
 ---
+## ⚙️ Setup Instructions
 
+### 1. Clone the repo
+```bash
+
+
+cd kreeya-calendar-app
