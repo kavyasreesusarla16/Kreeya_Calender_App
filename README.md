@@ -28,6 +28,5 @@ This is an MVP web application built for the Kreeya coding challenge. It integra
 
 ### 1. Clone the repo
 ```bash
-
-
+https://github.com/kavyasreesusarla16/Kreeya_Calender_App.git
 cd kreeya-calendar-app
